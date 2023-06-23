@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
  * nul - Multiplies two integers
  * @x: The first number to multiply
@@ -10,5 +11,7 @@
 inrt mul(int x, int y)
 
 {
+
 	return (x * y);
+
 }
