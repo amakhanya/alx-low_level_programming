@@ -3,8 +3,8 @@
 
 /**
  * main - printing name of the program
- * @argc: number of arg
- * @argv: array of arg
+ * @argc: number of arguments
+ * @argv: array of arguments
  *
  * Return: Always 0 (Success)
  */
@@ -14,4 +14,3 @@ int main(int argc __attribute__((unused)), char *argv[])
 
 	return (0);
 }
-
